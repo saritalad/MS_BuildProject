@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\bin\Debug\netcoreapp3.1\ConsoleAppForMSBuild.exe
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\bin\Debug\netcoreapp3.1\ConsoleAppForMSBuild.deps.json
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\bin\Debug\netcoreapp3.1\ConsoleAppForMSBuild.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\bin\Debug\netcoreapp3.1\ConsoleAppForMSBuild.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\bin\Debug\netcoreapp3.1\ConsoleAppForMSBuild.dll
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\bin\Debug\netcoreapp3.1\ConsoleAppForMSBuild.pdb
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\obj\Debug\netcoreapp3.1\ConsoleAppForMSBuild.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\obj\Debug\netcoreapp3.1\ConsoleAppForMSBuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\obj\Debug\netcoreapp3.1\ConsoleAppForMSBuild.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\obj\Debug\netcoreapp3.1\ConsoleAppForMSBuild.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\obj\Debug\netcoreapp3.1\ConsoleAppForMSBuild.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\obj\Debug\netcoreapp3.1\ConsoleAppForMSBuild.dll
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\obj\Debug\netcoreapp3.1\ConsoleAppForMSBuild.pdb
+C:\Users\HP\source\repos\ConsoleAppForMSBuild\obj\Debug\netcoreapp3.1\ConsoleAppForMSBuild.genruntimeconfig.cache
